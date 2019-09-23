@@ -1,0 +1,11 @@
+C:\Users\user\documents\lift\lift\obj\Debug\netcoreapp2.1\lift.csprojAssemblyReference.cache
+C:\Users\user\documents\lift\lift\obj\Debug\netcoreapp2.1\lift.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\lift\lift\obj\Debug\netcoreapp2.1\lift.AssemblyInfoInputs.cache
+C:\Users\user\documents\lift\lift\obj\Debug\netcoreapp2.1\lift.AssemblyInfo.cs
+C:\Users\user\documents\lift\lift\bin\Debug\netcoreapp2.1\lift.deps.json
+C:\Users\user\documents\lift\lift\bin\Debug\netcoreapp2.1\lift.runtimeconfig.json
+C:\Users\user\documents\lift\lift\bin\Debug\netcoreapp2.1\lift.runtimeconfig.dev.json
+C:\Users\user\documents\lift\lift\bin\Debug\netcoreapp2.1\lift.dll
+C:\Users\user\documents\lift\lift\bin\Debug\netcoreapp2.1\lift.pdb
+C:\Users\user\documents\lift\lift\obj\Debug\netcoreapp2.1\lift.dll
+C:\Users\user\documents\lift\lift\obj\Debug\netcoreapp2.1\lift.pdb
